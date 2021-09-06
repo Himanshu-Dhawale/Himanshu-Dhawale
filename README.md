@@ -7,8 +7,9 @@
 - 📫 How to reach me : [Twitter](https://twitter.com/Himansh77160323), [LinkedIn](https://www.linkedin.com/in/himanshu-dhawale-a30a421b2/), [Email](mailto:www.himanshudhawale9@gmail.com)
 - ## Latest Blog Posts:
 - [Array.map in Javascript](https://hashnode.com/post/arraymap-in-javascript-cksgsavxu070n1is1357rg74j)
-- #Github Stats:
+- ## Github Stats:
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Dhawale&layout=compact&theme=tokyonight)
+- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Himanshu-Dhawale&count_private=true&show_icons=true&theme=radical" alt="prakharv10" /></p>
 
 <!---
 Lawliet417/Lawliet417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

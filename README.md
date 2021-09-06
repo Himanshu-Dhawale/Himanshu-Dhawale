@@ -7,6 +7,7 @@
 - 📫 How to reach me : [Twitter](https://twitter.com/Himansh77160323), [LinkedIn](https://www.linkedin.com/in/himanshu-dhawale-a30a421b2/), [Email](mailto:www.himanshudhawale9@gmail.com)
 - ## Latest Blog Posts:
 - [Array.map in Javascript](https://hashnode.com/post/arraymap-in-javascript-cksgsavxu070n1is1357rg74j)
+- #Github Stats:
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-Dhawale&layout=compact&theme=tokyonight)
 
 <!---

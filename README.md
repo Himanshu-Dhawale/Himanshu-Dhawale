@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Himanshu
+- <p align="left"> <a href="https://twitter.com/Coding_Titan7" target="blank"><img src="https://img.shields.io/twitter/follow/Coding_Titan7?logo=twitter&style=for-the-badge" alt="Coding_Titan7" /></a> </p>
 - ![Hello- gif](https://media.giphy.com/media/Y8ocCgwtdj29O/giphy.gif)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript & ReactJS
